@@ -67,7 +67,7 @@
             {
             echo "<script>alert('Added Successfully!')</script>";
             ?>
-            <meta http-equiv="refresh" content="2; url=https://datpt.herokuapp.com/shop2.php">
+            <meta http-equiv="refresh" content="2; url=https://miracle.herokuapp.com/shop2.php">
             <?php
             }
             else

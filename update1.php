@@ -73,7 +73,7 @@ if($data)
 {
 echo "<script>alert('Updated Successfully!')</script>";
 ?>
-<meta http-equiv="refresh" content="0; url=https://datpt.herokuapp.com/shop1.php">
+<meta http-equiv="refresh" content="0; url=https://miracle.herokuapp.com/shop1.php">
 <?php
 }
 else
