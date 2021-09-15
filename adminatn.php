@@ -69,9 +69,9 @@
 <div class="dropdown" style="float:left;">
   <button class="dropbtn">Choose</button>
   <div class="dropdown-content" style="left:0;">
-  <a href="https://miracle.herokuapp.com/displayshop1.php">Shop 1</a>
-  <a href="https://miracle.herokuapp.com/displayshop2.php">Shop 2</a>
-  <a href="https://miracle.herokuapp.com/displayallshop.php">All </a>
+  <a href="https://datpt.herokuapp.com/displayshop1.php">Shop 1</a>
+  <a href="https://datpt.herokuapp.com/displayshop2.php">Shop 2</a>
+  <a href="https://datpt.herokuapp.com/displayallshop.php">All </a>
   </div>
 </div>
 
