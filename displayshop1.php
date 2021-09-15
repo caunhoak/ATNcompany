@@ -36,10 +36,10 @@ table {
                 </tr>
 <?php
 echo '<h1 style="color:orange"> Databse of ATN Shop 1</h1>';
-            		$host_heroku = "ec2-3-231-69-204.compute-1.amazonaws.com";
-			$db_heroku = "d5boqk3bekfndr";
-			$user_heroku = "zweujvxfknurip";
-			$pw_heroku = "a34706f696373b39c20d08e062a4bba2c33d0f9febe6eeaa26e77985c92a9e5e";
+$host_heroku = "ec2-3-219-111-26.compute-1.amazonaws.com";
+$db_heroku = "deohem0songcaa";
+$user_heroku = "qpcmfaakpjjjps";
+$pw_heroku = "eeee2b3fbe5ff9b98515af186beeeb5b2b9bddb7f2aa4ea266abef44059990ff";
 			# Create connection to Heroku Postgres
 			$conn_string = "host=$host_heroku port=5432 dbname=$db_heroku user=$user_heroku password=$pw_heroku";
 			# Connect to DATABASE
